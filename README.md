@@ -21,6 +21,7 @@ Date of data collection: Spring 2022
 
 # METHODOLOGICAL INFORMATION
 
-Hourly data for 1961-2017 was appended from .xlsx files. Hourly data for 2017-2018 period was recognized from txt files and appended. Appended data was stored in a .csv file.
+1. Hourly data for 1961-2017 was appended from .xlsx files. Hourly data for 2017-2018 period was recognized from txt files and appended. Appended data was stored in a .csv file.
 
+2. Hourly air temperature was interpolated using spline.
 
